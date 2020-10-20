@@ -26,7 +26,10 @@ git clone --depth=1 -o google-bbr -b v2alpha  https://github.com/google/bbr.git
 
 ### SpeedTest
 
-`https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix`
+```
+https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix
+wget https://install.speedtest.net/ooklaserver/ooklaserver.sh && chmod a+x ooklaserver.sh && ./ooklaserver.sh install && ./ooklaserver.sh start
+```
 
 ### V2ray一个可视化的测速方式(SpeedTest)
 
