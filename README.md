@@ -16,9 +16,10 @@ git clone --depth=1 -o google-bbr -b v2alpha  https://github.com/google/bbr.git
 
 `https://sunpma.com/621.html`
 
-### install v2ray
+### install v2ray OR Xray
 
 `https://github.com/v2fly/fhs-install-v2ray`
+`https://github.com/XTLS/Xray-install`
 
 ### 高级 v2ray-rules-dat
 
